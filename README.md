@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aibekovislam&show_icons=true&locale=en&layout=compact" alt="aibekovislam" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aibekovislam&show_icons=true&locale=en&layout=compact&theme=dark" alt="aibekovislam" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aibekovislam" alt="aibekovislam" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aibekovislam&theme=dark" alt="aibekovislam" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
